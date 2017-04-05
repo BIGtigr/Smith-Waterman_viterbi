@@ -1,4 +1,4 @@
 # Smith-Waterman
-"Smith-Waterman alignment of two sequence, can be DNA or amino acids" 
+Smith-Waterman local alignment of two sequences, can be DNAs or amino acids
 
-"Also known as viterbi finding the maximum likelihood path of hidden states of a hidden Markov model (HMM)"
+Also known as viterbi finding the maximum likelihood path of hidden states of a hidden Markov model (HMM)
